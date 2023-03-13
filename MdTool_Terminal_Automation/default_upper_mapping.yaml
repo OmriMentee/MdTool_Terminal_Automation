@@ -1,0 +1,10 @@
+200: left_shoulder_pitch #
+201: left_shoulder_roll
+202: left_shoulder_yaw
+203: left_elbow         #
+204: left_wrist_1             #name?  left_wrist_interior
+#205: left_wrist_2             #name?  left_wrist_exterior
+#206: left_wrist_yew
+#207: left_gripper
+
+#NEW 31.1.23: was added for new arm experimental setup
